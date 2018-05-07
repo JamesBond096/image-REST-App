@@ -1,0 +1,19 @@
+/*Author: Peter Wegrzyn
+Last Edit: 06.05.18
+Java Version: 10.0
+*/
+package imageApp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Main {
+    public static void main(String[] args){
+
+        SpringApplication.run(Main.class, args);
+
+
+    }
+
+}
